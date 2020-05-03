@@ -1,3 +1,5 @@
+# React + Typescript CRA boilerplate that ensures maximal code quality
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
